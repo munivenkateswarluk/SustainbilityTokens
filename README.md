@@ -6,7 +6,9 @@
 DeFi (ReFi) - Public Good
 
 ##### Team
-- Muni Venkateswarlu Kumaramangalam, Blockchain Developer, Catalyst Technologies Ltd.
+Muni Venkateswarlu Kumaramangalam  
+Blockchain Developer, 
+Catalyst Technologies Ltd.
 
 ##### Region location
 Calgary, Canada
