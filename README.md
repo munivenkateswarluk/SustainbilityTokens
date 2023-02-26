@@ -15,7 +15,11 @@ Calgary, Canada
 
 #### Project Description
 This is a demo project designed to tokenize sustainability behaviours and efforts to reward the individuals exercising the regenerative behaviour. 
-For example, let us take the example of using reusable bags or avoiding plastic bags usage while shopping. Users who exercise this sustainability behaviour will be issued a specific ERC20 token, called SUStainability Token (SUST). SUST holders are given preference when new crypto projects are launched and opt to distribute their tokens out to the greater population through airdrops. Higher the number of token holdings higher the priority during the airdrops. For demo use, I used Celo testnet Alfajores. 
+For example, let us take the example of using reusable bags or avoiding plastic bags usage while shopping. Users who exercise this sustainability behaviour will be issued a specific ERC20 token, called SUStainability Token (SUST). SUST holders are given preference when new crypto projects are launched and opt to distribute their tokens out to the greater population through airdrops. Higher the number of token holdings higher the priority during the airdrops. For demo use, I used Celo testnet Alfajores.
+
+#### URLs
+Check this video for the sample execution of the project: 
+https://youtube.com/playlist?list=PLi6LaqPTG8nZ1y17BvBlvLYjX__5BuRZ3
 
 #### How to run the project
 - Step 1 : Clone the repo
@@ -25,10 +29,6 @@ For example, let us take the example of using reusable bags or avoiding plastic 
 - Step 5 : run the command "npm start"
 - Step 6 : Open a web browser and type localhost:3000 and enter
 - Step 7 : Have fun with the UI
-
-#### URLs
-Check this video for the sample execution of the project: 
-https://youtube.com/playlist?list=PLi6LaqPTG8nZ1y17BvBlvLYjX__5BuRZ3
 
 #### System design
 ![System design](SUST_system_design.png)
