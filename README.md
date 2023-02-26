@@ -1,14 +1,15 @@
 
 ## ⚡ SUStainability Tokens (SUST): Everyone's Crypto ⚡
 
-### Team name
-Catalyst Technologies Ltd
-#### Hackathon Track
+
+#### Theme
 DeFi (ReFi) - Public Good
-##### Region location
-Calgary, Canada
+
 ##### Team Members
 - Muni V K, Blockchain Developer, Catalyst Technologies Ltd.
+
+##### Region location
+Calgary, Canada
 
 #### Project Description
 This is a demo project designed to tokenize sustainability behaviours and efforts to reward the individuals exercising the regenerative behaviour. 
