@@ -1,7 +1,6 @@
 
 ## ⚡ SUStainability Tokens (SUST): Everyone's Crypto ⚡
 
-
 #### Theme
 DeFi (ReFi) - Public Good
 
@@ -10,8 +9,6 @@ Muni Venkateswarlu Kumaramangalam
 Blockchain Developer, 
 Catalyst Technologies Ltd.
 Calgary, Canada
-
-
 
 #### Project Description
 This is a demo project designed to tokenize sustainability behaviours and efforts to reward the individuals exercising the regenerative behaviour. 
