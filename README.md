@@ -5,8 +5,8 @@
 #### Theme
 DeFi (ReFi) - Public Good
 
-##### Team Members
-- Muni V K, Blockchain Developer, Catalyst Technologies Ltd.
+##### Team
+- Muni Venkateswarlu Kumaramangalam, Blockchain Developer, Catalyst Technologies Ltd.
 
 ##### Region location
 Calgary, Canada
